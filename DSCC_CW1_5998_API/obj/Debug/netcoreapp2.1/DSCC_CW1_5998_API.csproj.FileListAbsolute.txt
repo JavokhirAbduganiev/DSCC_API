@@ -1,0 +1,46 @@
+C:\Users\jabdu\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.csproj.CoreCompileInputs.cache
+C:\Users\jabdu\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.AssemblyInfoInputs.cache
+C:\Users\jabdu\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.AssemblyInfo.cs
+C:\Users\jabdu\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\bin\Debug\netcoreapp2.1\DSCC_CW1_5998_API.deps.json
+C:\Users\jabdu\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\bin\Debug\netcoreapp2.1\DSCC_CW1_5998_API.runtimeconfig.json
+C:\Users\jabdu\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\bin\Debug\netcoreapp2.1\DSCC_CW1_5998_API.runtimeconfig.dev.json
+C:\Users\jabdu\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\bin\Debug\netcoreapp2.1\DSCC_CW1_5998_API.dll
+C:\Users\jabdu\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.RazorAssemblyInfo.cache
+C:\Users\jabdu\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.RazorAssemblyInfo.cs
+C:\Users\jabdu\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.RazorTargetAssemblyInfo.cache
+C:\Users\jabdu\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\bin\Debug\netcoreapp2.1\DSCC_CW1_5998_API.pdb
+C:\Users\jabdu\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\jabdu\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.dll
+C:\Users\jabdu\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.pdb
+C:\Users\User\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\DSCC_CW1_5998_API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\User\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\DSCC_CW1_5998_API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\User\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\DSCC_CW1_5998_API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\User\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\DSCC_CW1_5998_API\bin\Debug\netcoreapp2.1\DSCC_CW1_5998_API.deps.json
+C:\Users\User\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\DSCC_CW1_5998_API\bin\Debug\netcoreapp2.1\DSCC_CW1_5998_API.runtimeconfig.json
+C:\Users\User\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\DSCC_CW1_5998_API\bin\Debug\netcoreapp2.1\DSCC_CW1_5998_API.runtimeconfig.dev.json
+C:\Users\User\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\DSCC_CW1_5998_API\bin\Debug\netcoreapp2.1\DSCC_CW1_5998_API.dll
+C:\Users\User\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\DSCC_CW1_5998_API\bin\Debug\netcoreapp2.1\DSCC_CW1_5998_API.pdb
+C:\Users\User\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.RazorAssemblyInfo.cache
+C:\Users\User\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.RazorAssemblyInfo.cs
+C:\Users\User\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\User\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.AssemblyInfo.cs
+C:\Users\User\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.RazorTargetAssemblyInfo.cache
+C:\Users\User\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.dll
+C:\Users\User\Downloads\Telegram Desktop\DSCC_CW1_5998_API\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.pdb
+C:\Users\jabdu\Downloads\BIS Level 6\DSCC\DSCC_CW1_5998_API\DSCC_CW1_5998_API\bin\Debug\netcoreapp2.1\DSCC_CW1_5998_API.deps.json
+C:\Users\jabdu\Downloads\BIS Level 6\DSCC\DSCC_CW1_5998_API\DSCC_CW1_5998_API\bin\Debug\netcoreapp2.1\DSCC_CW1_5998_API.runtimeconfig.json
+C:\Users\jabdu\Downloads\BIS Level 6\DSCC\DSCC_CW1_5998_API\DSCC_CW1_5998_API\bin\Debug\netcoreapp2.1\DSCC_CW1_5998_API.runtimeconfig.dev.json
+C:\Users\jabdu\Downloads\BIS Level 6\DSCC\DSCC_CW1_5998_API\DSCC_CW1_5998_API\bin\Debug\netcoreapp2.1\DSCC_CW1_5998_API.dll
+C:\Users\jabdu\Downloads\BIS Level 6\DSCC\DSCC_CW1_5998_API\DSCC_CW1_5998_API\bin\Debug\netcoreapp2.1\DSCC_CW1_5998_API.pdb
+C:\Users\jabdu\Downloads\BIS Level 6\DSCC\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.csprojAssemblyReference.cache
+C:\Users\jabdu\Downloads\BIS Level 6\DSCC\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.csproj.CoreCompileInputs.cache
+C:\Users\jabdu\Downloads\BIS Level 6\DSCC\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.RazorAssemblyInfo.cache
+C:\Users\jabdu\Downloads\BIS Level 6\DSCC\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.RazorAssemblyInfo.cs
+C:\Users\jabdu\Downloads\BIS Level 6\DSCC\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\jabdu\Downloads\BIS Level 6\DSCC\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.AssemblyInfoInputs.cache
+C:\Users\jabdu\Downloads\BIS Level 6\DSCC\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.AssemblyInfo.cs
+C:\Users\jabdu\Downloads\BIS Level 6\DSCC\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.RazorTargetAssemblyInfo.cache
+C:\Users\jabdu\Downloads\BIS Level 6\DSCC\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.dll
+C:\Users\jabdu\Downloads\BIS Level 6\DSCC\DSCC_CW1_5998_API\DSCC_CW1_5998_API\obj\Debug\netcoreapp2.1\DSCC_CW1_5998_API.pdb
